@@ -1,4 +1,4 @@
-# OpenRectangle
+# OpenRectangleCubsMod
 Custom PCBs for a RP2040 powered rectangle controller.
 
 Modified version of https://github.com/Armastardo/OpenRectangle that decreases size of the PCB and changes button layout to accomodate.
