@@ -19,11 +19,7 @@ Case Dimensions: 298.8mm x 160.4mm x ~16.6mm (~11.76" x ~6.31" x ~0.654") Thickn
 
 Case Standoffs: 
 
-https://www.aliexpress.us/item/2251832708378430.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
-
-                                                        or
-
-https://www.amazon.com/dp/B07H3SRSDG?psc=1&ref=ppx_yo2ov_dt_b_product_details (ymmv on amazon stock but shipping is faster)
+https://www.aliexpress.us/item/2251832708378430.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US or https://www.amazon.com/dp/B07H3SRSDG?psc=1&ref=ppx_yo2ov_dt_b_product_details (ymmv on amazon stock but shipping is faster)
 
 Calculate the thickness of your case and order standoffs about 1mm shorter than the case.
 
@@ -50,11 +46,7 @@ I recommend doing some searching on your own as there may be different options t
 ### For Aluminum Switchplate Design:
 PCB Standoffs:
 
-https://www.ebay.com/itm/195557042245?var=495436584888
-
-                                                        or
-
-https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/97730356330R/10056365
+https://www.ebay.com/itm/195557042245?var=495436584888 or https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/97730356330R/10056365
 
 I would recommend going with the ebay ones, I got the digikey ones because I didn't find the ebay ones before I ordered but they are much more expensive. If you go with the ebay ones you can make the mounting holes in the switchplate 1.8mm and screw them in from both sides. If you go with the digikey ones then you will have to mount the standoffs to the bottom of the switchplate (I am using JBWeld for this https://www.amazon.com/dp/B0006O1ICY?psc=1&ref=ppx_yo2ov_dt_b_product_details). You can probably do the same thing with the ebay ones as well if you don't want to do screws on both sides.
 
