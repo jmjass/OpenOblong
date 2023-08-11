@@ -1,4 +1,4 @@
-Comment,Designator,Footprint,LCSC
+Comment,Designator,Footprint,LCSC Part #
 1uF,"C1,C2,C4,C10",Capacitor_SMD:C_0402_1005Metric,C52923
 100nF,"C3,C5,C6,C11,C12,C13,C14,C15,C16,C17",Capacitor_SMD:C_0402_1005Metric,C1525
 10uF,C9,Capacitor_SMD:C_0402_1005Metric,C15525
